@@ -1,28 +1,35 @@
-# GithubProjects
+# Github Users Projects
+Developed a single page application to list GitHub users repository README content.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+# Requirements
+1. Node.js v10.16.3 and above
+2. npm v6.9.0 and above
+3. Angular CLI v9.0.4 and above
+	
+## Technologies
+Project is created with:
+* Node.js version: 10.16.3
+* npm version: 6.9.0
+* Angular CLI version: 9.0.4
 
-## Development server
+## Installation
+To run AngularJS project, you will have to install the following components in your environment.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Node.js: https://nodejs.org/en/ <br/>
+npm: https://npmjs.com <br />
+Angular CLI: npm install -g @angular/cli
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-"# github-projects" 
+## Run project
+To run this project:  install it locally using npm:
+1. Go to project directory
+```
+$ cd ../github-projects
+```
+2. Install it locally using npm:
+```
+$ npm install
+```
+3. Start the project
+```
+$ ng serve
+```

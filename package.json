@@ -1,6 +1,7 @@
 {
   "name": "github-projects",
   "version": "0.0.0",
+  "homepage": "https://gabrielwzh.github.io/github-projects",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

@@ -17,6 +17,7 @@ export class AppComponent {
   count: number;
   getMarkdown: any;
   myHTML: string;
+  p: any = 1;
 
 
   submit() {

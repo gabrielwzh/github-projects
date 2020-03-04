@@ -1,4 +1,4 @@
-# Github Users Projects
+# GitHub Users Projects
 Developed a single page application to list GitHub users repository README content.
 
 # Requirements

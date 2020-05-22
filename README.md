@@ -1,5 +1,6 @@
 # GitHub Users Projects
-Developed a single page application to list GitHub users repository README content.
+Developed a single page application to list GitHub users repository README content. <br/>
+https://gabrielwzh.github.io/github-projects/
 
 # Requirements
 1. Node.js v10.16.3 and above
